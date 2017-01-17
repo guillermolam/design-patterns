@@ -14,7 +14,7 @@ tags:
 ## Intent
 Define a factory of immutable content with separated builder and factory interfaces.
 
-![alt text](./etc/factory-kit.png "Factory Kit")
+![alt text](./src/main/resources/factory-kit.png "Factory Kit")
 
 ## Applicability
 Use the Factory Kit pattern when
